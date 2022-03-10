@@ -1,2 +1,3 @@
-# remix-quill
-Created with CodeSandbox
+# Remix Quill
+
+Example on how to add Quill.js to your Remix project.
